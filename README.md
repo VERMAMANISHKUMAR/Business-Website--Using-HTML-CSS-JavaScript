@@ -1,5 +1,5 @@
 # Business Website Using HTML, CSS SCSS and JavaScript
-## Project live link:- https://create-by-mv-business-website.netlify.app/
+#### https://vermamanishkumar.github.io/Business-Website--Using-HTML-CSS-JavaScript/
 
 ![image](https://github.com/user-attachments/assets/c10ca18d-7a80-475e-9a8f-9662b675c9e5)
 ![image](https://github.com/user-attachments/assets/98e8eeb9-7058-4a20-b599-7fe67dd31c30)
