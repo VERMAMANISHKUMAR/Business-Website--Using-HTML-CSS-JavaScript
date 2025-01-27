@@ -265,8 +265,7 @@ jQuery(function($) {
         });
     });
 
-    // Buy Now Btn
-    $('body').append("<a href='#' class='buy-now-btn'>Buy Now</a>");
+  
 
 }(jQuery));
 
